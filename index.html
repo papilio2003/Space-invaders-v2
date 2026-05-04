@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+  <title>Space Invaders</title>
+</head>
+
+<body>
+  <div id="menu">
+    <h1>SPACE INVADERS</h1>
+    <button id="startBtn">Press to start</button>
+  </div>
+
+  <div id="game" class="hidden">
+    <div id="boost" class="boost hidden"></div>
+    <div id="hud">
+      <span id="score">SCORE: 0</span>
+
+      <div id="vidas">
+        <div class="vida"></div>
+        <div class="vida"></div>
+        <div class="vida"></div>
+        <div class="vida"></div>
+        <div class="vida"></div>
+      </div>
+    </div>
+
+    <div class="nave" id="nave"></div>
+  </div>
+
+<div id="endScreen" class="hidden">
+  <div class="end-content">
+
+    <img src="./imgs/ENDING.gif" id="endingGif">
+
+    <h1 id="resultadoTitulo"></h1>
+
+    <p id="finalScore"></p>
+    <p id="finalPreguntas"></p>
+    <p id="finalCorrectas"></p>
+
+    <button id="restartBtn">VOLVER A JUGAR</button>
+
+  </div>
+</div>
+
+      <h1 id="resultadoTitulo"></h1>
+
+      <p id="finalScore"></p>
+      <p id="finalPreguntas"></p>
+      <p id="finalCorrectas"></p>
+
+      <button id="restartBtn">Volver a jugar</button>
+    </div>
+  </div>
+
+  <div id="quizModal" class="hidden">
+    <div class="modal-content">
+      <h2 id="pregunta"></h2>
+
+      <div id="opciones"></div>
+
+      <div id="timer">6</div>
+    </div>
+  </div>
+
+  <audio id="correctSound" src="./audios/correcto.mp3"></audio>
+  <audio id="wrongSound" src="./audios/incorrecto.mp3"></audio>
+  <audio id="timerSound" src="./audios/timer.mp3"></audio>
+
+  <audio id="explosion" src="./audios/explosion.mp3"></audio>
+  <audio id="shootSound" src="./audios/shoot.wav"></audio>
+  <audio id="damageSound" src="./audios/damage.mp3"></audio>
+
+  <script src="script.js"></script>
+</body>
+
+</html>
