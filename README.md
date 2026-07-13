@@ -20,7 +20,6 @@ Space Invaders – Quiz Edition es un videojuego web desarrollado en JavaScript 
 El sistema se ejecuta completamente en el navegador, sin necesidad de backend.
 
 ---
----
 
 ## Capturas del juego
 
