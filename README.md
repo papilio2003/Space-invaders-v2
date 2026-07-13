@@ -25,22 +25,22 @@ El sistema se ejecuta completamente en el navegador, sin necesidad de backend.
 ## Capturas del juego
 
 <p align="center">
-  <img src="docs/gameplay-1.png" alt="Captura de gameplay 1" width="48%">
-  <img src="docs/gameplay-2.png" alt="Captura de gameplay 2" width="48%">
+  <img src="gameplay-1.png" alt="Captura de gameplay 1" width="48%">
+  <img src="gameplay-2.png" alt="Captura de gameplay 2" width="48%">
 </p>
 
 <p align="center">
-  <img src="docs/gameplay-3.png" alt="Captura de gameplay 3" width="48%">
-  <img src="docs/gameplay-7.png" alt="Captura de gameplay 7" width="48%">
+  <img src="gameplay-3.png" alt="Captura de gameplay 3" width="48%">
+  <img src="gameplay-7.png" alt="Captura de gameplay 7" width="48%">
 </p>
 
 <p align="center">
-  <img src="docs/gameplay-8.png" alt="Captura de gameplay 8" width="48%">
-  <img src="docs/gameplay-9.png" alt="Captura de gameplay 9" width="48%">
+  <img src="gameplay-8.png" alt="Captura de gameplay 8" width="48%">
+  <img src="gameplay-9.png" alt="Captura de gameplay 9" width="48%">
 </p>
 
 <p align="center">
-  <img src="docs/gameplay-11.png" alt="Captura de gameplay 11" width="48%">
+  <img src="gameplay-11.png" alt="Captura de gameplay 11" width="48%">
 </p>
 
 ---
